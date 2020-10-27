@@ -1,0 +1,1 @@
+array: es un tipo de variable en el que se le almacena mas de un valor y permitiendo crear una lista de valores.
