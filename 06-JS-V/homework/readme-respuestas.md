@@ -1,0 +1,2 @@
+prototype: es una estructura que almacena propiedades y metodos a los que objetos creados sobre una clase pueden acceder
+constructors: son metodos que permiten crear un objeto sobre la base de una clase
